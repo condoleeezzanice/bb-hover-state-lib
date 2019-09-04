@@ -1,0 +1,10 @@
+/* Hover State Collection Organized by Staley Stidham, 2019 */
+
+/* Zoom Effect */
+.class:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    text-decoration: none;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+}
